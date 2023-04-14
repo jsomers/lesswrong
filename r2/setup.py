@@ -81,7 +81,7 @@ setup(
                       "Babel>=0.9.1",
                       "flup",
                       "simplejson", 
-                      "SQLAlchemy==0.3.10",
+                      "SQLAlchemy==1.3.0",
                       "BeautifulSoup >= 3",  
                       "cssutils",
                       "chardet",
